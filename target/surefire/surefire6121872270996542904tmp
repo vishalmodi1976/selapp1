@@ -1,0 +1,8 @@
+#surefire
+#Fri Nov 23 20:11:20 CST 2018
+maven.ext.class.path=C\:\\Program Files\\NetBeans 8.2\\java\\maven-nblib\\netbeans-eventspy.jar
+user.dir=C\:\\Users\\vish_\\Documents\\NetBeansProjects\\SelPrj-master\\SelPrj-master
+file.encoding=UTF-8
+localRepository=C\:\\Users\\vish_\\.m2\\repository
+basedir=C\:\\Users\\vish_\\Documents\\NetBeansProjects\\SelPrj-master\\SelPrj-master
+test=com.itexps.test.GridTest
